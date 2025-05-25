@@ -2,7 +2,7 @@
 [Pledge前端代码](https://github.com/MetaNodeAcademy/ProjectBreakdown-Pledge/tree/main/pledge-fe) :point_left: 
 [Pledge后端代码](https://github.com/MetaNodeAcademy/ProjectBreakdown-Pledge/tree/main/pledge-backend) :point_left: 
 [Pledge合约代码](https://github.com/MetaNodeAcademy/ProjectBreakdown-Pledge/tree/main/pledgev2) :point_left: 
-[Pledge合约视频教程](https://meeting.tencent.com/crm/Nxbv8nBa9a) :point_left: 
+[Pledge合约视频教程](https://k22zz.xetlk.com/s/1kYAcz) :point_left: 
 
 ## :one:  系统概述
 借贷是Defi领域非常重要的模块，Maker、Aave、Compound是当前借贷领域的三巨头。  
